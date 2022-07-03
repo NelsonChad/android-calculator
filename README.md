@@ -2,4 +2,4 @@
 
 Java calculator build in Java and android studio with modern interface
 
-![screenshot 1](https://github.com/NelsonChad/android-calculator/blob/main/capture.png)
+<img src="https://github.com/NelsonChad/android-calculator/blob/main/capture.png" width="250">
